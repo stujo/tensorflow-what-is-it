@@ -22,6 +22,14 @@ At this point it looks like we have [jupyter](http://jupyter.org/) running in a 
   * IPython Notebooks are now [Jupyter Notebooks](http://jupyter.org/)
   * [Notebooks are a supported format on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
 
+## Where next?
+* Looks like the notebooks are our key to learning more:
+  * On your docker container open the ``1_hello_tensorflow.ipynb`` Notebook, for me:
+    * [http://192.168.99.100:8888/notebooks/1_hello_tensorflow.ipynb](http://192.168.99.100:8888/notebooks/1_hello_tensorflow.ipynb)
+  * I'm now going to read it
+  * Look's like you can highlight a 'cell' with Python code in it and run the code by clicking the ``>|`` button in the document toolbar!
+  * The result of the code is displayed beneath the 'cell'
+
 ## Other Resources
 * [How to use docker on OSX](https://www.viget.com/articles/how-to-use-docker-on-os-x-the-missing-guide)
 
