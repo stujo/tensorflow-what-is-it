@@ -6,6 +6,7 @@ I've heard about TensorFlow, seems like it's something to do with Machine Learni
   * [TensorFlow - Docker Installation](https://www.tensorflow.org/versions/r0.8/get_started/os_setup.html#docker-installation)
   * [Docker on Mac](https://docs.docker.com/mac/step_one/)
   * Before proceeding, does ``docker run hello-world`` work?
+    * If not, make sure you tried the ``Docker Quickstart Terminal`` and are running ``docker run hello-world`` in that terminal window
   * Get the docker IP address
     * ``$ docker-machine ip default``
       * -> ``192.168.99.100`` Whatever this IP address is copy it to the clipboard 
